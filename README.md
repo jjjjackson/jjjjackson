@@ -5,12 +5,9 @@
 - 🌱 Currently learning Rust & Huskell.
 - ✍🏻 Translating the technology articles from English to Mandarin
 
+## Latest Article
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-![jjjjackson's github stats](https://github-readme-stats.vercel.app/api?username=jjjjackson&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide=prs,issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjackson&layout=compact&theme=graywhite&hide=php,html)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat-square)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
@@ -34,6 +31,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-384d54.svg?logo=docker&style=flat-square)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjackson&layout=compact&theme=graywhite&hide=php,html)
 
 ## Contacts
 <p align="center">
