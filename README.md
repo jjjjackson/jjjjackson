@@ -7,8 +7,12 @@
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+![jjjjackson's github stats](https://github-readme-stats.vercel.app/api?username=jjjjackson&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjackson&layout=compact&theme=graywhite)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-<img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat-square">
+![TypeScript](img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat-square")
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=redux)
 ![Angular](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=angular)
