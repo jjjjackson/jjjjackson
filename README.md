@@ -6,6 +6,7 @@
 - ✍🏻 Translating the technology articles from English to Mandarin
 
 ## Latest Article
+- [Figma: front-end & UI desinger communication](https://jjjjackson.github.io/blog/bridge-between-ux-designer-and-frontend-developer)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
