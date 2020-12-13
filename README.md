@@ -12,8 +12,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat-square)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=redux)
-![Angular](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=angular)
+![Redux](https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux)
+![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -37,9 +37,12 @@
 
 ## Contacts
 <p align="center">
-	<a href="https://github.com/jjjjackson"><img src="https://img.shields.io/github/followers/jjjjackson.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/jjjjackson"></a>
-	<a href="https://www.linkedin.com/in/jjjjackson"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/jjjjackson">
+		<img src="https://img.shields.io/badge/Github--_.svg?logo=github&style=social&logoColor=000000" alt="GitHub">
+	</a>
+	<a href="https://www.linkedin.com/in/jjjjackson">
+		<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+	</a>
 </p>
 
 
