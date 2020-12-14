@@ -6,7 +6,7 @@
 - ✍🏻 Translating the technology articles from English to Mandarin
 
 ## Latest Article
-- [Indeed Incident Response Onsite -- in progress](https://gist.github.com/jjjjackson/55e080fda2b992c149bc1372150b19fd)
+- [Indeed Incident Response Onsite Interview -- in progress](https://gist.github.com/jjjjackson/55e080fda2b992c149bc1372150b19fd)
 - [Figma: front-end & UI desinger communication](https://jjjjackson.github.io/blog/bridge-between-ux-designer-and-frontend-developer)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
