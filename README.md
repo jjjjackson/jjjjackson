@@ -9,7 +9,6 @@
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Golang](https://img.shields.io/badge/-Golang-76E1FE.svg?logo=go&style=flat-square)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjjackson&layout=compact&theme=graywhite&hide=php,html)
 
