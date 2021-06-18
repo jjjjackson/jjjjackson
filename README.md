@@ -5,6 +5,8 @@
 - 🌱 Currently learning Rust & Huskell.
 - ✍🏻 Translating the technology articles from English to Mandarin
 
+[Blog about Life In Japan & CS](https://www.notion.so/jjjjackson/Jackson-s-blog-0699bf13a0964ef4bd37e6692a2d67ec)
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat-square)
